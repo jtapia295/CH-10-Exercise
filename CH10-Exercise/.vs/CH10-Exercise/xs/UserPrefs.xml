@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1964DB3D-918F-4E0E-9186-923D9705C85B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH10-Exercise/Controllers/CH10Controller.cs">
+    <Files>
+      <File FileName="CH10-Exercise/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="CH10-Exercise/Controllers/CH10Controller.cs" Line="18" Column="6" />
+      <File FileName="CH10-Exercise/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH10-Exercise" expanded="True">
+            <Node name="CH10-Exercise" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CH10Controller.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CH10-Exercise PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
